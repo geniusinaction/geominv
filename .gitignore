@@ -1,4 +1,9 @@
-
 .gmt_bb_info
 
 .gmtcommands4
+
+displacements.dat
+
+surfacetrace.dat
+
+data_model_residual.ps
